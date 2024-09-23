@@ -3,7 +3,7 @@ using namespace std;
 int main() {
     int num,tab; // declare veriable
 
-    cout << "Enter a number: ";
+    cout << "Enter a Numbers: ";
     cin >> num; //get input from the user
     
     for (int i = 1; i <= 10; i++)  //loop  from 1 to 10
